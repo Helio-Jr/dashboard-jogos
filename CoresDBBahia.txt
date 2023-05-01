@@ -1,0 +1,6 @@
+Cores DashBoard:
+
+Azul: #0C5395
+Vermelho: #D44120
+Azul Claro: #B5CCDE
+Cinza: #999999
