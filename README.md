@@ -1,6 +1,6 @@
 # Dashboard de jogos
 
-<div align="center">
+<div align="left">
 <img src="https://raw.githubusercontent.com/Helio-Jr/dashboard-jogos/main/TelaDashBoardJogos.png" width="750px" />
 </div>
 
