@@ -9,7 +9,7 @@ Dashboard do autor do projeto referente ao seu time: Esporte Clube Bahia.
 
 # Motivação
             
-Ao conversar com amigos sobre a quantidade de jogos assistidos, me deparei com a vontade de saber mais dados sobre as partidas que frequentei no estádio.
+Ao conversar com amigos sobre a quantidade de jogos ganhos no estádio, me deparei com a vontade de saber mais dados sobre as partidas que frequentei no estádio.
 Visando suprir esse desejo, um relatório interativo de jogos foi desenvolvido com o objetivo de entender e visualizar melhor as estatísticas de um clube de futebol quando determinado torcedor está presente ao estádio. Além disso, é possível saber informações do próprio indivíduo, como os campeonatos e anos com mais jogos acompanhados presencialmente.
 
 # Atributos
