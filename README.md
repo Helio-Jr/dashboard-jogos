@@ -3,6 +3,6 @@
 ![Dashboard de jogos](https://raw.githubusercontent.com/Helio-Jr/dashboard-jogos/main/TelaDashBoardJogos.png)
 
 <div align="center'>
-<img src="https://raw.githubusercontent.com/Helio-Jr/dashboard-jogos/main/TelaDashBoardJogos.png" width="600px" />
+<img src="https://raw.githubusercontent.com/Helio-Jr/dashboard-jogos/main/TelaDashBoardJogos.png" width="400px" />
 </div>
                                                                                              
