@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Helio-Jr/dashboard-jogos/main/TelaDashBoardJogos.png" width="750px" />
 </div>
 <div align="center">
-Dashboard do autor do projeto referente ao seu time do coração: Esporte Clube Bahia.
+Dashboard do autor do projeto referente ao seu time: Esporte Clube Bahia.
 </div>
 
 # Motivação
