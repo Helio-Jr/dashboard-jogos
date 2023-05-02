@@ -60,5 +60,5 @@ Instant Eyedropper
 
 Esse projeto desenvolvido com ferramentas de um analista de dados foi capaz de solucionar o objetivo, além de gerar outras informações úteis para o torcedor. Apesar disso, aqui estão algumas sugestões para a continuação e desenvolvimento do projeto:
 
-- Separar o relatório por páginas para disponibilizar mais informações
 - Disponibilizar o dashboard em nuvem
+- Separar o relatório por páginas para disponibilizar mais informações
